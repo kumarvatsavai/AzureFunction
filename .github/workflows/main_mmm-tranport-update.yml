@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'mmm-tranport-update'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_2ce30dc174874f78aaa61864a056eab5 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_01b31b77efcb4a75bcd14b1a5304b2cb }}
         package: .
